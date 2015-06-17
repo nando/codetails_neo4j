@@ -1,0 +1,150 @@
+# encoding: utf-8
+
+center <<-EOS
+  Recta final de...
+  \e[1mAMOR x lo diminuto\e[0m
+  nando @colgado
+  ©TCK Codetails 2014
+EOS
+
+section "Previously on \e[1m\"AMOR x lo diminuto\"\e[0m..." do
+
+  block <<-EOS
+    CUATRO perfiles CUATRO
+      * friquis
+      * tequis
+      * normales
+      * populares
+    y... SEIS toros SEIS :)
+  EOS
+
+  block <<-EOS
+    Herramientas "populares":
+      * GoogleGroups (& GMail)
+      * Facebook
+      * Twitter
+
+    MUY IMPORTANTES pero "MALAS"
+  EOS
+
+  block <<-EOS
+    Herramientas "core":
+      * AGORA Voting (Phyton => PdInternet)
+      * Reddit (Plaza Podemos, RuedasDM)
+      * Loomio (simple termómetro, Ruby)
+      * AppGree (GH, NO libre)
+      * MediaWiki (PHP)
+  EOS
+
+  block <<-EOS
+    Herramientas más tequis
+      * GitHub, RedMine, Trello, 
+      * TitanPad, Mumble
+      * ELGG, RedMine
+      * WordMultisite, Trello
+      * Otras muchas dispersas...
+  EOS
+
+  center <<-EOS
+    Mucho Ruby
+    Mucho GitHub
+    Algo de TravisCI :)
+    Todas son libres menos AppGree...
+    (pero parecen "amigos")
+    (y saben la importancia de ser abiertos)
+  EOS
+
+ 
+end
+
+section "RECTA FINAL de \e[1m\"AMOR x lo diminuto\"\e[0m" do
+
+  block <<-EOS
+    #ICxIC un Fer como compañero de habitación sólo podía ser mejorado por un Ángel Gentil :)
+  EOS
+
+  block <<-EOS
+#ICxIC Ángel me ha dejado entrar suavemente en mi epifanía de hoy... QUÉ NARICES HAGO YO HABLANDO DE EPIFANÍAS!!! (+ de 1 lo habrá pensado)
+  EOS
+  block <<-EOS
+#ICxIC miro en la Wikipedia para que me "ilumine" y: son COSAS RARUNAS que les pasa a GENTE mas bien TIRANDO A RELIGIOSA
+  EOS
+  block <<-EOS
+#ICxIC conclusión: ESTOY FATAL DE LO MÍO!!!! :)
+  EOS
+  block <<-EOS
+#ICxIC PUES NO!!! Clara y Nacho... GRACIAS!
+  EOS
+  block <<-EOS
+#ICxIC Epifanía no, mejor: On the ROAD, es decir cosas q están en el camino y LO VES CLARO. Por ejemplo, la Economía del Bien Común.
+  EOS
+  block <<-EOS
+#ICxIC Las palabras textuales de DHH que vienen en LA PRIMERA PÁGINA de la documentación oficial de RAILS sobre TESTING son estas...
+  EOS
+  block <<-EOS
+#ICxIC It wasn't an "oh! let's bolt on support for running tests because they're new and cool" epiphany. SIMPLEMENTE lo vió ON THE ROAD :)
+  EOS
+  block <<-EOS
+#ICxIC y eso viniendo de alguien que definió un ROADMAP como una VERSIÓN OBSOLETA DEL FUTURO
+  EOS
+
+  block <<-EOS
+#ICxIC EL BLOGROLL de esta charla: MARTIN FOWLER's NOT JUST CODE MONKEYS (media hora, todos los públicos que "acercan" tecnología).
+  EOS
+  block <<-EOS
+#ICxIC MUERTE a los dark patterns... aquí f
+  EOS
+  block <<-EOS
+#ICxIC better if NOT SO BIG DATA (para el SMART BIG DATA! gracias Antolín!!!)
+  EOS
+  block <<-EOS
+#ICxIC González mola mucho incluso con mi SPOILER. el libro de ILUSIONES... DEBE SER GENIAL!!! FOR "US NOW", BÁSICO:
+  EOS
+
+  block <<-EOS
+  Charla "NOT JUST CODE MONKEYS" de Martin Fowler
+  EOS
+
+  block <<-EOS
+#ICxIC causalidades, casualidades, coincidencias, suerte, "mira-tu-por-donde", sincronismos (te miran como al del cuento de Ilusiones)...
+  EOS
+
+  block <<-EOS
+#ICxIC COSAS DE LA VIDA
+  EOS
+
+  block <<-EOS
+#ICxIC Real Madrid (soy merengue!!!) y Albatros: nombre que puse a una aplicación que se iba a llamar WinPrensa (cont.)
+  EOS
+
+  block <<-EOS
+#ICxIC Hacia arriba fue parecido a la llamada que me hizo PrisaCom que comentó ayer ALBERTO... y no sabía porqué le puse ese nombre!
+  EOS
+
+  block <<-EOS
+#ICxIC Ahora, POR FIN, sí LO SÉ: EL VIENTO. Quiero jugar al Golf!!! debí ser un "albatros" en una vida anterior ;)... VIVA EL EFECT MAP!!!
+  EOS
+
+  block <<-EOS
+    Conversación con Isabel
+    WebSemática, OWL
+    SparQL	
+  EOS
+
+  block <<-EOS
+#ICxIC jueves 25. 1:43 de la noche. abro el zip que me ha mandado Twitter CON TODOS MIS TUITS desde el principio de los tiempos.
+  EOS
+
+  block <<-EOS
+#ICxIC mi primer tuit, del 13 de julio de 2010, como no podía ser de otra forma, es el final de esta charla y da sentido a su título...
+  EOS
+
+  block <<-EOS
+#ICxIC @mamuso Bienvenido Marco!!!
+  EOS
+
+  block <<-EOS
+#ICxIC THE END... ¡¡¡¡¡MUCHAS GRACIAS!!!!!
+  EOS
+
+end
