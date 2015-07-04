@@ -429,6 +429,15 @@ section "\e[1mBBDD de Grafos\e[0m" do
   EOS
 
   center <<-EOS
+    menos mal que ha llegado
+    \e[1mStefan Armbruster\e[0m al rescate!!!
+
+    la solución está en la carpeta
+    \e[1mejercicio_ASCII-Art\e[0m
+    (4_CHISTE_PARA_nando)
+  EOS
+
+  center <<-EOS
     y para quienes quieran matrícula...
   EOS
 
