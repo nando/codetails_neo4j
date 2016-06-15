@@ -35,11 +35,11 @@ CREATE
   (los_estorninos)-[:VÍA]->(pau),
 
   // Incorporaciones al grafo para poder subir nota (ejercicio 2)
-  (el_microsite:Document
-    {title: "El Microsite", desc: "in the sky"}),
   (spp:Project {name: "SuperPerfumerias"}),
+  (pau)-[:HA_PEDALEADO_EN]->(spp),
   (alsanars:Human {name: 'Álvaro'}),
   (alsanars)-[:HA_PEDALEADO_EN]->(spp),
-  (pau)-[:HA_PEDALEADO_EN]->(spp),
-  (el_microsite)-[:VÍA]->(pau)
+  (el_microsite:Document
+    {title: "El Microsite", desc: "in the sky"}),
+  (el_microsite)-[:VÍA]->(alsanars)
 RETURN *;
