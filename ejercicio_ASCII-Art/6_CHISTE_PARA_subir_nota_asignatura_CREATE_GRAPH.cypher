@@ -47,5 +47,7 @@ CREATE
   (ror_conf:Event {name: "Conferencia Rails"}),
   (ux_spain:Event {name: "Ux Spain"}),
   (pau)-[:HA_ASISTIDO_A]->(ux_spain),
-  (alsanars)-[:HA_ASISTIDO_A]->(ror_conf)
+  (alsanars)-[:HA_ASISTIDO_A]->(ror_conf),
+  (carlos)-[:HA_ASISTIDO_A]->(ror_conf),
+  (nando)-[:HA_ASISTIDO_A]->(ror_conf)
 RETURN *;
